@@ -1,6 +1,6 @@
 # Hi 👋 I am Dibyaranjan Pati
 
-### FullStack Developer  Developer · 3+ Years Experience
+### Full Stack Developer  Developer · 3+ Years Experience
 📍 Bengaluru, India
 🏢 Currently at XENOPS TECHNOLOGIES PRIVATE LIMITED
 
