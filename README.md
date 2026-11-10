@@ -1,8 +1,8 @@
 # Hi 👋 I am Dibyaranjan Pati
 
-### Backend Developer · 3+ Years Experience
+### FullStack Developer  Developer · 3+ Years Experience
 📍 Bengaluru, India
-🏢 Currently at Intechfy Solutions
+🏢 Currently at XENOPS TECHNOLOGIES PRIVATE LIMITED
 
 ---
 
